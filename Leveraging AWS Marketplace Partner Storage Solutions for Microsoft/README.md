@@ -8,3 +8,5 @@
 ["AWS Marketplace"](https://aws.amazon.com/marketplace/),作为采购渠道的独特定位，可以找到第三方存储产品，提供基于AWS存储服务的附加技术。第三方存储产品由行业新手提供并由云计算解决方案以及现有行业领导者进行维护。它们包括许多在企业中已经很熟悉和普遍部署的主流存储产品。
 
 我们最近发布了“利用适用于Microsoft SharePoint的AWS Marketplace存储解决方案” ["白皮书"](https://d1.awsstatic.com/whitepapers/marketplace-storage-softnas-sharepoint.pdf)，来介绍部署和配置SoftNAS Cloud NAS，这是一种AWS Marketplace第三方存储产品，可提供安全，高度可用，冗余和容错存储Microsoft SharePoint协作套件。
+
+注：当我看过["白皮书"](https://d1.awsstatic.com/whitepapers/marketplace-storage-softnas-sharepoint.pdf)，之后，我觉得这个实用性不大，如果真是要使用到，还是跟AWS沟通一下具体实施方案
